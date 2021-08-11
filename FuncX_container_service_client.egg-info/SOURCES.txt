@@ -1,0 +1,7 @@
+README.md
+setup.py
+FuncX_container_service_client.egg-info/PKG-INFO
+FuncX_container_service_client.egg-info/SOURCES.txt
+FuncX_container_service_client.egg-info/dependency_links.txt
+FuncX_container_service_client.egg-info/top_level.txt
+container_service_client/__init__.py

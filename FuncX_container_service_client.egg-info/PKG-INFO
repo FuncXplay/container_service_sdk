@@ -1,3 +1,12 @@
+Metadata-Version: 2.1
+Name: FuncX-container-service-client
+Version: 0.1
+Summary: UNKNOWN
+Home-page: git@github.com:FuncXplay/container_service_sdk.git
+Author: Farland
+License: UNKNOWN
+Platform: UNKNOWN
+
 # Python SDK for FuncX container service
 
 This is for python code to access container service locally. 
@@ -62,6 +71,6 @@ Need to omit `:/` in url, but not changed yet.
 
 ### Get Start
 
-1. Clone the source code
-2. run `python setup.py install` in folder
-3. `import container_service_client` in your python code and use those functions provided
+1. Clone the code
+2. 
+
